@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+opencv-python-headless
+azure-cognitiveservices-vision-computervision
+msrest
+numpy
